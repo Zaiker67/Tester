@@ -289,7 +289,7 @@ deleteBodyMovementScript()
 
 services.muscleEvent = lp.player:WaitForChild("muscleEvent")
 
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/TryHarderDeobfuscatingHAHAHAlol/libraryvariations/refs/heads/main/Fastfarminglibrary.lua", true))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/memejames/elerium-v2-ui-library/refs/heads/main/Library", true))()
 local silence = library:AddWindow("M14EBR | Paid Version | Puksahan Na! " .. LocalPlayer.DisplayName, {
     title_bar = {Color3.fromRGB(128, 128, 128), Color3.fromRGB(0, 0, 0), Color3.fromRGB(0, 0, 0)},
     title_bar_transparency = 0.2,
